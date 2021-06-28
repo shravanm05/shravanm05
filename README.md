@@ -3,7 +3,7 @@ I am a Full Stack Developer from India
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
 - 🌱 Learning Software Architecture in Depth
 - 💬 Ask me about JavaScript,AWS and Node Js
-👯 I’m looking to collaborate on Next.Js Project
+- I’m looking to collaborate on Next.Js 
 - 📫 How to reach me: [shravanm05@gmail.com](mailto:shravanm05@gmail.com)
 <br>
 
